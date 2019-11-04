@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+.left{
+  width: 85%;
+  float: left;
+}
+
+.right{
+  width: 15%;
+  float: right;
+}

@@ -1,0 +1,30 @@
+.boardbutton {
+    border: none;
+    color: black;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: bold;
+    margin: 30px 30px;
+    line-height: 10;
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+}
+
+.one{
+    background-position:25% 10%;
+    background-image: url(http://www.tjtech.co.kr/wp-content/uploads/2015/09/%EB%B6%84%EB%8B%B9-SK-%ED%8C%8C%ED%81%AC%EB%B7%B0.png);
+}
+
+.two{
+    background-position:50% 10%;
+    background-image: url(http://www.tjtech.co.kr/wp-content/uploads/2015/09/%EB%B6%84%EB%8B%B9-SK-%ED%8C%8C%ED%81%AC%EB%B7%B0.png);
+}
+
+.three{
+    background-position:75% 10%;
+    background-image: url(http://www.tjtech.co.kr/wp-content/uploads/2015/09/%EB%B6%84%EB%8B%B9-SK-%ED%8C%8C%ED%81%AC%EB%B7%B0.png);
+}

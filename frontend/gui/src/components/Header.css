@@ -1,0 +1,36 @@
+.header {
+    background: #00B992;
+    /*
+    display: table;
+    table-layout: fixed;
+    */
+    width: 100%;
+    display:flex;
+}
+
+.item {
+    text-align: center;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    /*display: table-cell;*/
+    color: white;
+    text-decoration: none;
+    font-size: 1.1rem;
+}
+
+.item:hover {
+    background: #69cac5;
+    color: white;
+}
+
+.item:active, .item.active {
+    background: white;
+    color: #00B992;
+}
+
+ul li {
+    list-style-type: none;
+    padding-left: 8px;
+    padding-right: 8px;
+    float: left;
+}
